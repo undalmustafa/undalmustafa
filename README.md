@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @undalmustafa
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning Python
-- 📫 How to reach me 
+- Hi, I’m @undalmustafa. I’m interested in embedded systems, automated systems and everything that works with electric.
+- To reach me 
   undalmustafa@gmail.com
 
 <!---
